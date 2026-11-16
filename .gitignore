@@ -1,0 +1,6 @@
+overlays/
+*.img
+*.nup
+*.nsp
+__pycache__/
+.DS_Store
